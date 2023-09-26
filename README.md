@@ -4,7 +4,7 @@
 
 1. Start by reading the [slides](./docs/slides.pdf);
 2. Then read the [assignment](./docs/assignment.pdf);
-3. Now complete the assignment: [colab](APAI23-LAB1-DNN-definition-and-trainingù).
+3. Now complete the assignment: [colab](APAI23-LAB1-DNN-definition-and-training.ipynb).
 
 
 ## How to deliver the assignment:
